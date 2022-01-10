@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Huynh Tan Cuong</h1>
 <h3 align="center">A passionate embedded developer from Viet Nam</h3>
 
+- 🔭 I’m currently working on [Reflow Oven](#)
+
+- 🌱 I’m currently learning **Java, STM32, C/C++, Matlab**
+
+- 📝 I regularly write articles on [huynhtancuong.wordpress.com/](huynhtancuong.wordpress.com/)
+
+- 💬 Ask me about **Arduino and PCB Design**
+
+- 📫 How to reach me **huynhtancuongrus@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
