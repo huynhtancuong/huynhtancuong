@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huynhtancuong&label=Profile%20views&color=0e75b6&style=flat" alt="huynhtancuong" /> </p>
 
-- 🔭 I’m currently working on [Reflow Oven](#)
+- 🔭 I’m currently working on [Reflow Oven](https://github.com/huynhtancuong/Prj_Olymp_ReflowOven_CANNode_STM32)
 
 - 🌱 I’m currently learning **Java, STM32, C/C++, Matlab**
 
