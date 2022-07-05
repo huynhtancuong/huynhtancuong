@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Reflow Oven](https://github.com/huynhtancuong/Prj_Olymp_ReflowOven_CANNode_STM32)
 
-- 🌱 I’m currently learning **Java, STM32, C/C++, Matlab**
+- 🌱 I’m currently learning **Java, STM32, C/C++, Matlab, ROS2 and Gazebo**
 
 - 📝 I regularly write articles on [huynhtancuong.wordpress.com/](huynhtancuong.wordpress.com/)
 
